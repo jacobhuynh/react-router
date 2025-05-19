@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    background-color: #D9D9D9;
+    padding: 20px 20px;
+    width: 70%;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
